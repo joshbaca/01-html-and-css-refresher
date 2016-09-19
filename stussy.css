@@ -50,3 +50,18 @@ h4 {
       line-height: 1.5;
       font-size: 15px;
       }
+
+      div {height: 200px;
+          width: 40%;
+        padding-left: 180px;}
+
+      p2 {text-align: center;
+        position: relative;
+        top: 30px;
+      padding-bottom: 100px;}
+
+      div2 {display: inline;
+      padding-left: 800px;
+      position: relative;
+      top: -190px;
+      left: -30px;}
