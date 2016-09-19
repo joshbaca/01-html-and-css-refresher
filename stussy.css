@@ -37,3 +37,8 @@ h4 {
       position: relative;
       top: -30px;
     }
+    table {
+      border-spacing: 50px;
+      font-family: helvetica;
+      font-size: 28px;
+      border: 300px white;
