@@ -41,4 +41,12 @@ h4 {
       border-spacing: 50px;
       font-family: helvetica;
       font-size: 28px;
-      border: 300px white;
+      border: 300px white;}
+
+      body {
+      font-family: helvetica;
+
+      text-align: justify;
+      line-height: 1.5;
+      font-size: 15px;
+      }
