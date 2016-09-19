@@ -16,3 +16,11 @@ h2 {text-align: right
   padding-left: 400px;
   position: relative;
   top: -66px;}
+  a {
+    color: black;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  p{
+    text-align: center;
