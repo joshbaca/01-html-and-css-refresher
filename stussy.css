@@ -6,6 +6,32 @@ font-family: helvetica;
 padding-left: 50px;
 position: relative;
 top: -66px;
+
+}
+
+a.shop:hover {
+  color: darksalmon;
+  -webkit-transition-duration: 0.6s;
+  -webkit-transition-timing-function: ease;
+  -webkit-text-decoration-style: double;
+    text-decoration: underline;
+}
+
+
+
+a.account {
+  color: gray;
+}
+a.account:hover {
+  color: black;
+}
+
+a.blogs:hover {
+  color: pink;
+  -webkit-transition-duration: 0.8s;
+  -webkit-transition-timing-function: ease;
+  -webkit-text-decoration-style: double;
+    text-decoration: underline;
 }
 h2 {text-align: right
   width: 100px;
